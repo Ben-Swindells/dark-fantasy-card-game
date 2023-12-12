@@ -1,2 +1,2 @@
-# dark-fantasy-card-game
+# Dark fantasy card game (name tbd)
 A dark fantasy based card game RPG
